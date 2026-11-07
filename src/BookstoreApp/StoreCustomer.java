@@ -1,4 +1,4 @@
-package BookstoreApp;
+package BookstoreApp        ;
 
 public class StoreCustomer {
     private final String username;
