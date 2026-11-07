@@ -1,0 +1,4 @@
+nafis,1234,100
+nihal,pass,580
+customer,book123,0
+testing,123,10
