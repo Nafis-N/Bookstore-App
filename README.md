@@ -33,5 +33,4 @@ A Java desktop bookstore application with a graphical interface. An owner manage
 ![Login](screenshots/owner.png)
 ![Customer view](screenshots/customer.png)
 
-## Notes
-Built as a course project. Accounts and passwords are stored in plain text and the admin credentials are fixed, which is fine for a demo but not for production.
+
